@@ -4,5 +4,4 @@ def using_times
 end
 
 
-puts using_times
 
